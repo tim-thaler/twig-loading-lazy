@@ -1,0 +1,17 @@
+{
+    "name": "tim-thaler/twig-loading-lazy",
+    "description": "Twig Extension that generates markup for using native browser lazyload. With polyfill support for older browsers",
+    "version": "0.0.1",
+    "require": {
+        "php": ">=7.0",
+        "twig/twig": "^2.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tim Rosenthal",
+            "email": "timrosenthal83@googlemail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
